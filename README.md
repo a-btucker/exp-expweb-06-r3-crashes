@@ -12,7 +12,7 @@ We are going to go after the following items one at a time to see which ones hav
 * **Current Status** Evens are done - In progress 
 
 ### Start process of getting Hao's zip fix build and prepared for propping
-* ** Current Status** Aaron has unshelved change, and is in progress of running PCP
+* **Current Status** Aaron has unshelved change, and is in progress of running PCP
 
 ### Roll Back to 06-R1 JVM settings
 * **Current Status** Pending
